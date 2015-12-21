@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Mon, 21 Dec 2015 14:16:55 +0100
+Reviewed-on: https://review.gerrithub.io/255810
+Project: rdo-puppet-modules/puppet-module-collectd
+Branch: refs/heads/recomb-original-master-25a13e610108e47505e01d75a4be69a385ad6cd3
